@@ -12,6 +12,7 @@
 ### Linguagem de Programação Python:
 - Operações Aritméticas;
 - Variáveis;
+- Tipos de Dados;
 - Estruturas de dados básicas;
 - Operações Lógicas;
 - Laços;
