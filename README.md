@@ -15,6 +15,7 @@
 - Tipos de Dados;
 - Estruturas de dados básicas;
 - Operações Lógicas;
+- Estruturas Condicionais;
 - Laços;
 - Funções;
 
