@@ -19,13 +19,10 @@
 - Laços;
 - Funções;
 
-## Análise de Dados:
+## Análise e Visualização de Dados:
 - Numpy;
 - Pandas;
-
-## Visualização de dados:
 - Matplotlib;
-- Seaborn;
 
 ## Introdução a Machine Learning:
 - Definição de Aprendizado de Máquina;
