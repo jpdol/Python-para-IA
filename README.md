@@ -30,14 +30,13 @@
 - Tarefas de Machine Learning;
 - Técnicas de Machine Learning;
 - Métricas de Avaliação;
+- Erros Comuns;
 
 ## Machine Learning:
 - Scikit Learn;
 - KNN;
 - Centróides mais próximos;
-- Naive-Bayes;
-- Regressão Linear;
-- Regressão Logistica;
 - K-means;
+- Naive-Bayes;
 - Redes Neurais;
 - Próximos passos em Machine Learning;
